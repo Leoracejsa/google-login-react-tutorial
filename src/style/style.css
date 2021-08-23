@@ -1,0 +1,73 @@
+.global{
+    margin-top: 30px;
+    background-color: #fff;
+    ;
+    height: auto;   
+}
+
+.logo-promo{
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    width: 200px;
+}
+.promo{
+    text-align: center;
+    font-weight: 700;
+    color: #000;
+    font-size: 20px;     
+    margin-top: 20px;
+}
+
+.title{
+    text-align: center;
+    font-weight: 700;
+    color: #132b0c;
+    font-size: 50px;     
+    margin-bottom: 20px;
+    background-color: #59f02c;
+    width: auto;
+    margin: auto;
+}
+
+.invasao{
+    height: auto;
+    width: 600px;
+    margin: auto;
+    padding-bottom: 20px;
+    margin-top: 20px;
+}
+
+.list{
+    width: 332px;
+    display: block;
+    margin: 0 auto;
+}
+
+.list-sub{
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.list-title{
+    font-weight: 700;
+}
+
+.destaqueAtencao{
+    color: red;
+}
+
+.imagemUrl {
+    width: 90%;
+    height: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+.textoMenor{
+    font-size: .4em;
+}
+
+.corAfya {
+    color:crimson;
+}
